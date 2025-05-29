@@ -89,6 +89,9 @@ body {
     flex: 1;
     user-select: none;
 }
+.button:active {
+    background-color: #ba4fd84f;
+}
 .top-operators {
     grid-column: 1 / 4;
     width: 100%;
